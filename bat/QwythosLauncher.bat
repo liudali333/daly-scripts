@@ -2,13 +2,13 @@
 setlocal EnableDelayedExpansion
 
 chcp 936 >nul
-title LingDu AI - Qwythos Launcher
+title daly - Qwythos Launcher
 color 0A
 
 cd /d "%~dp0"
 
 :: =====================================================
-:: ×Ô¶¯²éÕÒÄ£ÐÍ
+:: 自动查找模型
 :: =====================================================
 
 set MODEL=
@@ -31,7 +31,7 @@ cls
 echo.
 echo ============================================================
 echo.
-echo             LingDu AI - Qwythos Launcher
+echo             daly - Qwythos Launcher
 echo.
 echo          Claude Mythos 5 Distilled Vision Model
 echo.
